@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\bin\Debug\net6.0-windows\bolum-1uygulama7.exe
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\bin\Debug\net6.0-windows\bolum-1uygulama7.deps.json
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\bin\Debug\net6.0-windows\bolum-1uygulama7.runtimeconfig.json
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\bin\Debug\net6.0-windows\bolum-1uygulama7.dll
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\bin\Debug\net6.0-windows\bolum-1uygulama7.pdb
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum_1uygulama7.Form1.resources
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.AssemblyInfo.cs
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.dll
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\refint\bolum-1uygulama7.dll
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.pdb
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\bolum-1uygulama7.genruntimeconfig.cache
+C:\Users\User\source\repos\bolum-1uygulama7\bolum-1uygulama7\obj\Debug\net6.0-windows\ref\bolum-1uygulama7.dll
